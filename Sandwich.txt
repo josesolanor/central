@@ -3,5 +3,5 @@ ketchup
 mostaza
 lechuga
 tomate
-huevo
+tocino
 pan
